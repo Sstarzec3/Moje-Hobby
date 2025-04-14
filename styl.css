@@ -1,0 +1,79 @@
+body{background-color: #C0C0C0;}
+
+header{background-color: #36454f; text-align: center; box-shadow: 1px solid black; Width: 100%; height: 100%; color: white;}
+
+main{background-color: #C0C0C0; Width:100%; height:100%; font-size: 125%;}
+
+.karta {
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 2px 2px 2px ;
+  width: 300px;
+  padding: 50px;
+  margin: 100px;
+  text-align: center;
+  float: left;
+  height: 525px
+}
+
+
+.karta img {
+  width: 250px;
+  height: 300px;
+  border-radius: 8px;
+}
+
+.karta h2 {
+  font-size: 140%;
+  margin-top: 15px;
+}
+
+.karta p {
+  color: #666;
+  font-size: 1;
+  margin-top: 10px;
+}
+
+#wedkarstwo{ width: 250px; height: 300px;}
+
+#ktm{ width: 250px; height: 300px;}
+
+
+ 
+
+button{  padding: 10px;
+    background-color: white;
+    border: 2px solid black;
+    margin: 80px;
+    width: 450px;
+    height: 80px;
+    font-size: 120%;
+    border-radius: 30px;
+    text-align: center;
+	float: left;
+	}
+	
+.karta1 {
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 2px 2px 2px ;
+  width: 200px;
+  padding: 50px;
+  margin: 35px;
+  float: left;
+  height: 300px
+}
+
+
+.karta1 img {
+  width: 200px;
+  height: 300px;
+  border-radius: 8px;
+}
+
+
+
+
+
+ 
+
